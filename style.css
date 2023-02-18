@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #D84BA5;
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Rubik', sans-serif;
+}
+
+.body-wrepper {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-start;
+	height: 100%;
+}
+
+.logo {
+	width: 30%;
+}
